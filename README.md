@@ -5,7 +5,7 @@
 MacOS remapkey tools `karabiner-elements` config
 
 In this config
-* click `left Shift` will remap to `F17` （a virtual key not exist in your keybord which can be set to `change to next intput method`），hold `left Shift` still be `Shift`
+* click `Shift` will remap to `F17` （a virtual key not exist in your keybord which can be set to `change to next intput method`），hold `Shift` still be `Shift`
 * `Ctrl` + `H/J/K/L` remap to the direction key
 
 ## How to use ?
